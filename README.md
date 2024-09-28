@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakobHuemer
 <!--- - 👀 I’m interested in Java and Webdevelopement --->
-- 🌱 I’m currently learning Java, JavaScript, Python and Rust
+- 🌱 I'm currently learning ♨️ Java, 🌐 JavaScript and a little bit of 🦀 Rust.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me on E-Mail jakobhuemer2.0@gmail.com
 
